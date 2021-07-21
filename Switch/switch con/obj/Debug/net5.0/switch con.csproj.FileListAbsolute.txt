@@ -1,0 +1,16 @@
+F:\Window\Switch\switch con\bin\Debug\net5.0\switch con.exe
+F:\Window\Switch\switch con\bin\Debug\net5.0\switch con.deps.json
+F:\Window\Switch\switch con\bin\Debug\net5.0\switch con.runtimeconfig.json
+F:\Window\Switch\switch con\bin\Debug\net5.0\switch con.runtimeconfig.dev.json
+F:\Window\Switch\switch con\bin\Debug\net5.0\switch con.dll
+F:\Window\Switch\switch con\bin\Debug\net5.0\ref\switch con.dll
+F:\Window\Switch\switch con\bin\Debug\net5.0\switch con.pdb
+F:\Window\Switch\switch con\obj\Debug\net5.0\switch con.csproj.AssemblyReference.cache
+F:\Window\Switch\switch con\obj\Debug\net5.0\switch con.GeneratedMSBuildEditorConfig.editorconfig
+F:\Window\Switch\switch con\obj\Debug\net5.0\switch con.AssemblyInfoInputs.cache
+F:\Window\Switch\switch con\obj\Debug\net5.0\switch con.AssemblyInfo.cs
+F:\Window\Switch\switch con\obj\Debug\net5.0\switch con.csproj.CoreCompileInputs.cache
+F:\Window\Switch\switch con\obj\Debug\net5.0\switch con.dll
+F:\Window\Switch\switch con\obj\Debug\net5.0\ref\switch con.dll
+F:\Window\Switch\switch con\obj\Debug\net5.0\switch con.pdb
+F:\Window\Switch\switch con\obj\Debug\net5.0\switch con.genruntimeconfig.cache
